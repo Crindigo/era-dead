@@ -1,7 +1,7 @@
 {
-    "name": "radar/project",
+    "name": "crindigo/era",
     "type": "project",
-    "description": "An Action-Domain-Responder project skeleton.",
+    "description": "4X-ish web game thing.",
     "license": "MIT",
     "require": {
         "php": ">=5.5.0",
